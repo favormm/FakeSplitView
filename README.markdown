@@ -1,1 +1,9 @@
-Minimalist UISplitViewController that bypasses some of the real thing's limitations
+# FakeSplitView
+
+## Description
+
+Minimalist UISplitViewController that bypasses some of the real thing's limitations.
+
+## License
+
+BSD
