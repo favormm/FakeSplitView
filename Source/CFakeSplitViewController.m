@@ -87,7 +87,7 @@ typedef enum {
 
     self.masterColumnWidth = 320.0;
     self.gutterWidth = 1.0f;
-    self.hidesMasterViewInPortrait = NO;
+    self.hidesMasterViewInPortrait = YES;
     self.deferDelegateMethods = NO;
     }
 
